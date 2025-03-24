@@ -13,6 +13,6 @@
 ![alt text = Results](./training_history.png)
     
 # Note: 
-    This code was created using CUDA installed in WSL (Windows Subsystem for Linux). However, you can run it on Windows without CUDA by modifying the file paths in the source file. 
+    This code was created using CUDA installed in WSL (Windows Subsystem for Linux). However, you can run it on Windows without CUDA by modifying the file paths in the source file. And The Trained Model was Removed from the repository Because of Filesize limit in GitHub.
 
 📽️ [Watch the demo video](Video.mp4)
