@@ -15,4 +15,4 @@
 # Note: 
     This code was created using CUDA installed in WSL (Windows Subsystem for Linux). However, you can run it on Windows without CUDA by modifying the file paths in the source file. 
 
-<video src="Video.mp4" controls width="500"></video>
+📽️ [Watch the demo video](Video.mp4)
